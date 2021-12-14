@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tb3_inno_description</name>
+  <version>0.0.0</version>
+  <description>
+    The tb3_inno_description package
+  </description>
+  <license>Apache 2.0</license>
+  <maintainer email="y-tanaka@jsk.t.u-tokyo.ac.jp">Yoshimaru Tanaka</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>urdf</depend>
+  <depend>xacro</depend>
+  <!-- <export></export> -->
+</package>
