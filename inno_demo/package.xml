@@ -9,7 +9,7 @@
   <maintainer email="y-tanaka@jsk.t.u-tokyo.ac.jp">Yoshimaru Tanaka</maintainer>
   <author email="y-tanaka@jsk.t.u-tokyo.ac.jp">Yoshimaru Tanaka</author>
 
-  <license>BSD</license>
+  <license>Apache 2.0</license>
   <!-- <url type="website">http://ros.org/wiki/inno_demo</url> -->
   <!-- <url type="repository">https://github.com/jsk-ros-pkg/inno_demo</url> -->
   <!-- <url type="bugtracker">https://github.com/jsk-ros-pkg/inno_demo/issues</url> -->

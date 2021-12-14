@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>inno_final_demo</name>
+  <version>0.0.1</version>
+  <description>The inno_final_demo package</description>
+
+  <maintainer email="y-tanaka@jsk.t.u-tokyo.ac.jp">y-tanaka</maintainer>
+
+  <license>BSD</license>
+
+
+  <!-- Url tags are optional, but multiple are allowed, one per tag -->
+  <!-- Optional attribute type can be: website, bugtracker, or repository -->
+  <!-- Example: -->
+  <!-- <url type="website">http://wiki.ros.org/inno_final_demo</url> -->
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>fetch_ros</exec_depend>
+
+  <export></export>
+</package>
