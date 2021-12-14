@@ -1,0 +1,11 @@
+<launch>
+
+  <include file="$(find tb3_inno_description)/launch/tb3_inno_remote.launch" />
+
+  <node pkg="joint_state_publisher" type="joint_state_publisher" name="joint_state_publisher">
+    <param name="use_gui" value="true"/>
+    <param name="rate" value="50"/>
+  </node>
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find tb3_inno_description)/rviz/model.rviz"/>
+</launch>
